@@ -122,7 +122,7 @@ var shoppingCart = () => {
     /* */
 
 
-    // Listar carrinho
+    // Cart listing
     obj.listCart = () => {
         var cartCopy = [];
         for (i in cart) {
